@@ -1,0 +1,1 @@
+Designed and implemented a single-supply push-pull Class-B amplifier, achieving 0.95W output, 40+dB distortion reduction, and 40%+ efficiency. Simulated with LTSpice for frequency response (150Hz-15kHz) and built the circuit on hardware.
