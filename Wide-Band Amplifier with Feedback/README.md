@@ -1,0 +1,1 @@
+Designed and built a two-stage amplifier with voltage feedback to achieve a low output impedance and flat gain. Used BJT transistors to meet specifications for gain, bandwidth (2KHz-2MHz), and harmonic distortion. Simulated with LTSpice and verified performance on hardware, achieving the target output voltage and current consumption within limits.
