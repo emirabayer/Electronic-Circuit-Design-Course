@@ -6,11 +6,11 @@ This repository consists of the lab and project reports that include simulation 
 
 <br>
 
+
 <br>
 
 ## Course Project - Thermocouple Instrumentation Amplifier Controlled Heater
 Designed a thermocouple amplifier to control a heater, maintaining a target temperature based on a K-type thermocouple, with an ON/OFF control system and visual feedback via an LED. The design was simulated in LTSpice and includes a PCB layout for implementation.
-
 <br>
 <br>
 
