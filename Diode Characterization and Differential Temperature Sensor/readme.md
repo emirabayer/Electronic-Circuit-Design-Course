@@ -1,1 +1,1 @@
-
+This lab focused on measuring the saturation current of a 1N4148 diode and designing a temperature sensor using the diode’s voltage-temperature relationship, verified through simulation and practical implementation.
