@@ -1,0 +1,1 @@
+This lab focused on designing and testing a low-dropout voltage regulator using a PNP transistor (BD136), an OPAMP (LM358), and a Zener diode, with performance verification in LTSpice and on a breadboard under varying load and input conditions.
