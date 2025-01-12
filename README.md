@@ -7,11 +7,14 @@ This repository consists of the lab and project reports that include simulation 
 
 
 ### Course Project
+---
 
 ### Lab 1 - Diode Characterization and Differential Temperature Sensor
+---
 This lab focused on measuring the saturation current of a 1N4148 diode and designing a temperature sensor using the diode’s voltage-temperature relationship, verified through simulation and practical implementation.
 
 ### Lab 2: - Low‐Dropout Voltage Regulator
+---
 This lab focused on designing and testing a low-dropout voltage regulator using a PNP transistor (BD136), an OPAMP (LM358), and a Zener diode, with performance verification in LTSpice and on a breadboard under varying load and input conditions.
 
 ### Lab 3 - Class-B Power Amplifier
